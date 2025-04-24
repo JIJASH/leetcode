@@ -10,4 +10,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JIJASH/leetcode/tree/master/0001-two-sum) |
+| [1500-count-largest-group](https://github.com/JIJASH/leetcode/tree/master/1500-count-largest-group) |
+## Math
+|  |
+| ------- |
+| [1500-count-largest-group](https://github.com/JIJASH/leetcode/tree/master/1500-count-largest-group) |
 <!---LeetCode Topics End-->
